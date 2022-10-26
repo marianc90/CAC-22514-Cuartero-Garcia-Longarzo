@@ -5,6 +5,7 @@
   }  
 
 body {
+    font-family: 'Lato', sans-serif;
     display: grid;
     grid-template-areas: 
     "header"
@@ -24,11 +25,34 @@ header{
     padding: 30px;
 }
 
+header div{
+    display: flex;
+    flex-direction: row;
+}
+
+header div a{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+header div img{
+    display: flex;
+    flex-direction: row;
+    width: 35px;
+    margin: 6px;
+    padding: 3px;
+}
+
 nav ul{
     display: flex;
     flex-direction: row;
     list-style: none;
     gap: 20px;
+}
+
+header nav ul a{
+    text-decoration: none;
 }
 
 main{
