@@ -21,7 +21,7 @@ header{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    background-color: dimgray;
+    background-color: #105652;
     padding: 30px;
 }
 
@@ -81,6 +81,15 @@ main{
     background-color: rgb(201, 110, 110);
 }
 
+a{
+    color: #FBF3E4
+}
+
+a:hover{
+    color: #105652
+
+}
+
 aside{
     grid-area: aside;
 }
@@ -94,13 +103,17 @@ footer{
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: rgb(129, 129, 129);
+    background-color: #B91646;
 }
 
 
 /* CONTACT */
 
 form { max-width:420px; margin:20px auto; }
+
+label{
+    color: #FBF3E4
+}
 
 .feedback-input {
   color:white;
