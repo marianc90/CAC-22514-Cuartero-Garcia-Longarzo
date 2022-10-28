@@ -1,0 +1,92 @@
+[
+{
+    "id":"1",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohMmXWcG3RUiaovztlRrVjhnRlhXGBUyNWg&usqp=CAU",
+    "name":"Cafe Blends América del Sur",
+    "price":"899",
+    "weight":"250",
+    "stock":"10",
+    "description":"El café colombiano tiende a ser más dulce y cítrico, mientras que el café brasileño tiene un regusto menos limpio y más chocolate con leche y notas más cremosas."
+},
+ {
+     "id":"2",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohMmXWcG3RUiaovztlRrVjhnRlhXGBUyNWg&usqp=CAU",
+     "name":"Cafe Blends América del Sur",
+     "price":"1799",
+     "weight":"500",
+     "stock":"10",
+     "description":"El café colombiano tiende a ser más dulce y cítrico, mientras que el café brasileño tiene un regusto menos limpio y más chocolate con leche y notas más cremosas."
+ },
+ {
+     "id":"3",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWETwp9u6sBiem4BpA0EZeJtnY8S32EB6YjBnst0O2YqKgYKwhevM_lEfiOqVvcMFpSY&usqp=CAU",
+     "name":"Cafe Blends Centroamérica",
+     "price":"899",
+     "weight":"250",
+     "stock":"10",
+     "description":"Estos cafés son muy equilibrados con una buena mezcla de dulzor suave y algo de acidez agria y afrutada."
+ },
+ {
+     "id":"4",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWETwp9u6sBiem4BpA0EZeJtnY8S32EB6YjBnst0O2YqKgYKwhevM_lEfiOqVvcMFpSY&usqp=CAU",
+     "name":"Cafe Blends Centroamérica",
+     "price":"1799",
+     "weight":"500",
+     "stock":"10",
+     "description":"Estos cafés son muy equilibrados con una buena mezcla de dulzor suave y algo de acidez agria y afrutada."
+ },
+ {
+     "id":"5",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIx8b7P4EL5UAMIpTLkdvu4ikT6QLSKNccA&usqp=CAU",
+     "name":"Cafe Blends África",
+     "price":"899",
+     "weight":"250",
+     "stock":"10",
+     "description":"Estos cafés son más complejos, afrutados y florales. Tienen sabores más fuertes, ricos en fragancias y con mucho cuerpo."
+ },
+ {
+     "id":"6",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIx8b7P4EL5UAMIpTLkdvu4ikT6QLSKNccA&usqp=CAU",
+     "name":"Cafe Blends África",
+     "price":"1799",
+     "weight":"500",
+     "stock":"10",
+     "description":"Estos cafés son más complejos, afrutados y florales. Tienen sabores más fuertes, ricos en fragancias y con mucho cuerpo."
+ },
+ {
+     "id":"7",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntJsvOdPghwto7YjfusB_854xuS96ANT_eA&usqp=CAU",
+     "name":"Cafe Blends Asia",
+     "price":"899",
+     "weight":"250",
+     "stock":"10",
+     "description":"Los cafés asiáticos tienden a ser más terrosos y audaces que otros cafés. Los granos son menos ácidos, más atrevidos y, a veces, incluso sabrosos."
+ },
+ {
+     "id":"8",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntJsvOdPghwto7YjfusB_854xuS96ANT_eA&usqp=CAU",
+     "name":"Cafe Blends Asia",
+     "price":"1799",
+     "weight":"500",
+     "stock":"10",
+     "description":"Los cafés asiáticos tienden a ser más terrosos y audaces que otros cafés. Los granos son menos ácidos, más atrevidos y, a veces, incluso más sabrosos."
+ },
+ {
+     "id":"9",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4dhUWuOMtMt81Kep9-wWRmlvF6gaRuODQ&usqp=CAU",
+     "name":"Cafe Blends Arábica Promo",
+     "price":"599",
+     "weight":"250",
+     "stock":"15",
+     "description":"Variedad Arábica de buen cuerpo y sabor"
+ },
+ {
+     "id":"10",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4dhUWuOMtMt81Kep9-wWRmlvF6gaRuODQ&usqp=CAU",
+     "name":"Cafe Blends Arábica Promo",
+     "price":"1099",
+     "weight":"500",
+     "stock":"15",
+     "description":"Variedad Arábica de buen cuerpo y sabor"
+ }
+]
