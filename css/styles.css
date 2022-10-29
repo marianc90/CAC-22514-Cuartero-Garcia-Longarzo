@@ -161,7 +161,7 @@ main{
 .ul_variedades_destacadas img{
    border-radius: 10px;
    transition: all 0.5s;
-   width: 150px;
+   width: 100%;
 }
 .ul_variedades_destacadas img:hover{
    -webkit-box-shadow: 0 0 20px 0px rgb(253, 253, 253);
@@ -173,6 +173,17 @@ main{
     gap: 25px;
     flex-wrap: wrap;
     justify-content: space-evenly ;
+}
+
+.li_productos{
+    background-color: #73503C;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 2px 4px #1a1213;
+    width: 300px;
+}
+.li_productos a{
+    text-decoration: none;
 }
 
 a{
@@ -189,7 +200,7 @@ aside{
     grid-area: aside;
     background-color: #90694a;   
     background-image: url("../Img/oferta_back.png");
-    background-size: 300%;
+    background-size: cover;
     padding: 30px;
     display: flex;
     flex-direction: column;
@@ -395,7 +406,7 @@ button:hover { background:#CC4949; }
     }
 
     .ul_variedades_destacadas img{
-        width: 300px;
+        width: 100%;
      }
      .ul_variedades_destacadas img:hover{
         -webkit-box-shadow: 0 0 20px 0px rgb(253, 253, 253);
