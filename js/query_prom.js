@@ -1,6 +1,6 @@
 const ulProductos = document.getElementById("ul_variedades_destacadas");
 
-const destacados = [1,3,5,8];
+const destacados = [1,3,5,7];
 
 fetch("https://631b3538dc236c0b1ef028e8.mockapi.io/Cafe")
 .then(res=> res.json())

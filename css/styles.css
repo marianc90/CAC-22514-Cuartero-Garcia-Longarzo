@@ -128,12 +128,25 @@ main{
 .carousel_contenido{ 
     color: white;
     font-size: 100%;
-    color: #FFFFFF;
-    text-shadow: 0 0 10px #FFFFFF;
+    color: #F5EFE6;
+    text-shadow: 0 0 10px #F5EFE6;
 }
 
 .carousel_contenido_index{ 
-    font-size: 200%;
+    animation-name: textzoom;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes textzoom {
+    0%{
+        font-size: 160%;
+    }
+    100%{
+        font-size: 200%;
+    }
 }
 
 .section2{
@@ -161,9 +174,9 @@ main{
 }
 
 .ul_variedades_destacadas img{
-   border-radius: 10px;
-   transition: all 0.5s;
-   width: 100%;
+    border-radius: 10px;
+    transition: all 0.5s;
+    width: 100%;
 }
 .ul_variedades_destacadas img:hover{
    -webkit-box-shadow: 0 0 20px 0px rgb(253, 253, 253);
