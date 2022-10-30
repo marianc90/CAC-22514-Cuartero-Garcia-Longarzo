@@ -137,11 +137,12 @@ main{
     animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
 @keyframes textzoom {
     0%{
-        font-size: 150%;
+        font-size: 160%;
     }
     100%{
         font-size: 200%;
