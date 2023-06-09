@@ -366,6 +366,10 @@ button:hover { background:#CC4949; }
     .carousel_contenido{
         font-size: medium;
     }
+	
+    .carousel_contenido_index{ 
+	 text-align: center;
+     }
     
     .main_internas{
         grid-auto-rows: 13rem minmax(15rem, auto) 15rem;
